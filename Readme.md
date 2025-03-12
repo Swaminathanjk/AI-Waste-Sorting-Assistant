@@ -7,7 +7,7 @@ This guide provides step-by-step instructions to set up the environment for trai
 ## Download the Dataset 
 
 Google Drive link 🔗 [Dataset](https://drive.google.com/file/d/13V6-HEIAYtSiYbuVxU7qwLlAN8ZLLCKo/view?usp=sharing) \
-Extract the datasets folder to the same level as modelT.ipynb
+Extract the datasets folder to the same level as modelT.ipynb\
 The Dataset is already preprossed You dont have to Run the preprocessing code again!!.
 
 ## 🚀 Step 1: Install Python 3.12.3
